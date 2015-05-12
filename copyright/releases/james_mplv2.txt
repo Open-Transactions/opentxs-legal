@@ -1,0 +1,25 @@
+Subject: Re: Request permission / OT Code
+Date: Thu, 19 Jun 2014 11:09:07 -0400
+From: James Hughes <jamesh@bluewallgroup.com>
+Reply-To: jamesh@bluewallgroup.com
+Organization: BlueWall Information Technologies, LLC
+To: Fellow Traveler <fellowtraveler@rayservers.net>
+
+On Thu, 2014-06-19 at 10:45 +0200, Fellow Traveler wrote:
+> Hello,
+> 
+> I would like to relax the OT license a little bit, and so I am mailing
+> all the contributors (such as yourself) to ask for permission.
+> 
+> Basically we will KEEP the AGPL / LAGPL licensing we already have for
+> the various projects, but we will additionally ADD MPLv2 (Mozilla Public
+> License) to each file.
+> 
+> MPL is a copyleft license which allows static linking, and which is
+> compatible with the Apple App Store. (We want Monetas, as well as any
+> other entity, to be able to put OT-based apps into the App Store.)
+> 
+> Do I have your permission?
+> 
+
+Sure

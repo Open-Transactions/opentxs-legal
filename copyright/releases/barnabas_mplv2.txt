@@ -1,0 +1,45 @@
+Subject: Re: OT License / Permission
+Date: Thu, 19 Jun 2014 11:21:10 +0200
+From: Barnabas Debreczeni <barnabas@octarine-labs.com>
+To: Fellow Traveler <fellowtraveler@rayservers.net>
+
+Hi,
+
+fine by me, of course.
+
+Can’t wait to see the OT ecosystem grow and prosper.
+
+
+
+Barnabas
+
+On 2014.06.19., at 11:00, Fellow Traveler
+<fellowtraveler@rayservers.net> wrote:
+
+>
+> Hello,
+>
+> I would like to relax the OT license a little bit, and so I am mailing
+> all the contributors (such as yourself) to ask for permission.
+>
+> Basically we will KEEP the AGPL / LAGPL licensing we already have for
+> the various projects, but we will additionally ADD MPLv2 (Mozilla Public
+> License) to each file.
+>
+> MPL is a copyleft license which allows static linking, and which is
+> compatible with the Apple App Store. (We want Monetas, as well as any
+> other entity, to be able to put OT-based apps into the App Store.)
+>
+> Do I have your permission?
+>
+> -- 
+> Fellow Traveler
+> Open-Transactions project
+> http://opentransactions.org/
+> http://github.com/Open-Transactions/Open-Transactions/
+> Email: fellowtraveler@rayservers.net
+> Freenet:
+> fellowtraveler@sl5ubqge35vpofoplb4bwi4ehkjoerz4f2dhvf5n3hzqb2xjsova.freemail
+> Bitmessage: BM-2cTNvqq7aJK5oLXudR3mxwrRu8BmSx5nd1@bm.addr
+>
+>
